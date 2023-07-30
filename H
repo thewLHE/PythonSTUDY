@@ -1,0 +1,13 @@
+/*
+Homo sapiens (human) 
+  https://www.ncbi.nlm.nih.gov/genome/?term=Homo+sapiens https://www.ncbi.nlm.nih.gov/genome/guide/human/ 
+  https://hhj6212.github.io/biology/tech/2021/05/30/grch37-grch38.html 
+#Summary Sequence data: genome assemblies: 1037; sequence reads: 692 (See Genome Assembly and Annotation report) Statistics: median total length (Mb): 2864.72 median protein count: 87306 median GC%: 40.4 
+#todo Find EcoR1
+*/
+GN=open("C:/Users/dmsdl/Desktop/JupyterJ/HG/GCF_000001405.40_GRCh38.p14_genomic.gff")
+GNV=GN.read()
+GN.close()
+Nav=open("C:/Users/dmsdl/Desktop/JupyterJ/HG/GCF_000001405.40_GRCh38.p14_genomic.fna")
+NavV=Nav.read()
+Nav.close()

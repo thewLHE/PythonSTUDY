@@ -1,0 +1,25 @@
+@Contents_python bioinfometics_basic
+1.Data Type
+  1)Commun data type
+  2)Number
+  3)String
+  4)Lists
+  5)Set
+  6)Tuple
+  7)Dictionary
+2.Flow control
+  1)If
+  2)for
+  3)whlie
+3.File I/O
+4.Function
+5.Python modules & Packages
+  1)sys module
+  2)os module
+  3)datetime modlue
+  4)re module
+  5)subprocess
+6.Class
+
+#-----------------------------------------------------------------------------------------------------------------
+
